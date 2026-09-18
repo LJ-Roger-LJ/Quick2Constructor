@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="CommandTitle" xml:space="preserve">
+    <value>Go to Constructor</value>
+  </data>
+  <data name="NoActiveEditor" xml:space="preserve">
+    <value>No active code editor.</value>
+  </data>
+  <data name="CannotGetWorkspace" xml:space="preserve">
+    <value>Unable to get the Roslyn workspace.</value>
+  </data>
+  <data name="FileNotInSolution" xml:space="preserve">
+    <value>The current file is not in the Roslyn solution.</value>
+  </data>
+  <data name="CannotAnalyzeDocument" xml:space="preserve">
+    <value>Unable to analyze the current document.</value>
+  </data>
+  <data name="CaretNotInType" xml:space="preserve">
+    <value>The caret is not inside a type.</value>
+  </data>
+  <data name="TypeHasNoExplicitConstructor" xml:space="preserve">
+    <value>Type {0} has no explicit constructor.</value>
+  </data>
+  <data name="UseInCSharpFile" xml:space="preserve">
+    <value>Use Go to Constructor in a C# file.</value>
+  </data>
+  <data name="CannotOpenFile" xml:space="preserve">
+    <value>Unable to open the constructor file.</value>
+  </data>
+  <data name="LocationStale" xml:space="preserve">
+    <value>The constructor location is no longer valid.</value>
+  </data>
+  <data name="FilterPlaceholder" xml:space="preserve">
+    <value>Filter constructors</value>
+  </data>
+  <data name="PickerHint" xml:space="preserve">
+    <value>Enter to go  ·  Esc to close</value>
+  </data>
+  <data name="NoMatchingConstructors" xml:space="preserve">
+    <value>No matching constructors</value>
+  </data>
+</root>

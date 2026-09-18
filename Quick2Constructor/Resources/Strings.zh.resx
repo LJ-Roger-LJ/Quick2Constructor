@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="CommandTitle" xml:space="preserve">
+    <value>跳转到构造函数</value>
+  </data>
+  <data name="NoActiveEditor" xml:space="preserve">
+    <value>没有活动的代码编辑器。</value>
+  </data>
+  <data name="CannotGetWorkspace" xml:space="preserve">
+    <value>无法获取 Roslyn 工作区。</value>
+  </data>
+  <data name="FileNotInSolution" xml:space="preserve">
+    <value>当前文件不在 Roslyn 解决方案中。</value>
+  </data>
+  <data name="CannotAnalyzeDocument" xml:space="preserve">
+    <value>无法分析当前文档。</value>
+  </data>
+  <data name="CaretNotInType" xml:space="preserve">
+    <value>光标不在类型内部。</value>
+  </data>
+  <data name="TypeHasNoExplicitConstructor" xml:space="preserve">
+    <value>类型 {0} 没有显式构造函数。</value>
+  </data>
+  <data name="UseInCSharpFile" xml:space="preserve">
+    <value>请在 C# 文件中使用“跳转到构造函数”。</value>
+  </data>
+  <data name="CannotOpenFile" xml:space="preserve">
+    <value>无法打开构造函数所在文件。</value>
+  </data>
+  <data name="LocationStale" xml:space="preserve">
+    <value>构造函数位置已失效。</value>
+  </data>
+  <data name="FilterPlaceholder" xml:space="preserve">
+    <value>筛选构造函数</value>
+  </data>
+  <data name="PickerHint" xml:space="preserve">
+    <value>Enter 跳转  ·  Esc 关闭</value>
+  </data>
+  <data name="NoMatchingConstructors" xml:space="preserve">
+    <value>没有匹配的构造函数</value>
+  </data>
+</root>
